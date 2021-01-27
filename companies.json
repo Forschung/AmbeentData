@@ -1,0 +1,22 @@
+[
+    { BrandName:"AT & T" },
+    { BrandName:"Verizon" },
+    { BrandName:"Comcast XFINITY" },
+    { BrandName:"Charter Spectrum" },
+    { BrandName:"Time Warner Cable" },
+    { BrandName:"Cox" },
+    { BrandName:"Vodafone" },
+    { BrandName:"BrightHouse" },
+    { BrandName:"Claro" },
+    { BrandName:"Millenicom" },
+    { BrandName:"Turknet" },
+    { BrandName:"Turk Telekom" },
+    { BrandName:"Turkcell" },
+    { BrandName:"Telmex" },
+    { BrandName:"iinet" },
+    { BrandName:"T-mobile" },
+    { BrandName:"Allnet" },
+    { BrandName:"STC" },
+    { BrandName:"Romtelecom" },
+    { BrandName:"Telekom Romania" }
+]
