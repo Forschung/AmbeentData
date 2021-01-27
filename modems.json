@@ -112,5 +112,12 @@
     { Brand:"ZyXEL", Model:"VMG3312-B10A" },
     { Brand:"ZyXEL", Model:"WAP3205 V3" },
     { Brand:"2Wire", Model:"3800HGV-B" },
+    { Brand:"2Wire", Model:"5031NV-030" },
+    { Brand:"ZyXEL", Model:"P-660N-T1A" },
+    { Brand:"ZyXEL", Model:"P-660W-T1v3" },
+    { Brand:"ZyXEL", Model:"VMG1312-B10D" },
+    { Brand:"ZyXEL", Model:"VMG3312-B10A" },
+    { Brand:"ZyXEL", Model:"WAP3205 V3" },
+    { Brand:"2Wire", Model:"3800HGV-B" },
     { Brand:"2Wire", Model:"5031NV-030" }
 ]
